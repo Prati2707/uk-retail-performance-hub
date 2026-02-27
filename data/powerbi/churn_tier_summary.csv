@@ -1,0 +1,5 @@
+ChurnRiskTier,Customers,Avg_Churn_Prob,Total_Monetary,Revenue_At_Risk
+High Risk,117,76.5,25736.2,25736.2
+Low Risk,1821,37.2,1863556.6,1863556.6
+Medium Risk,1002,61.3,488118.7,488118.7
+Safe,435,17.5,3016992.5,0.0
